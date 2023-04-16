@@ -18,7 +18,7 @@
 <body>
 	<div class="container">
 		<div class="col-md-12 mt-4 text-center">
-			<h1>Crud operation using ajax</h1>
+			<h1>Crud operation using AJAX</h1>
 		</div>
 		<hr>
 
